@@ -1,0 +1,1034 @@
+chris.germany - LinkedIn: Capacity Trader - Natural Gas (https://www.linkedin.com/in/chris-germany-28a15528/details/experience/)
+	 Based on the words, phrases and acronyms used, this person likely works in a role related to natural gas trading or transmission. Specifically:
+	- There are many references to natural gas pipelines (Transcontinental Gas Pipe Line, Columbia Gas of Ohio, Texas Eastern, etc.) and storage facilities (Cove Point Storage).
+	- There are mentions of natural gas trading hubs (Leidy, Station 65) and market areas (Market East).
+	- There are abbreviations like mcf/d, likely referring to thousand cubic feet per day, a standard unit of measurement in natural gas.
+	- Companies like Devonion Resources, Hunt Petroleum, WVA Production suggest involvement with natural gas producers/exploration and production. 
+	- There are pipeline compressor stations (South Virginia Lateral Compressor Station) and regulator stations (Centerville Regulator Station) listed.
+	So this individual is likely in a commercial/trading role related to buying/selling natural gas and managing its transmission around pipelines and storage infrastructure. Potential roles could include natural gas trader, pipeline capacity scheduler/planner, gas control specialist, etc. The details suggest a significant depth involvement in US Northeast regional gas infrastructure.
+
+daren.farmer - (Kumar undergrad paper): Logistics Manager
+	Based on the words, phrases and acronyms listed, this person seems to be involved in the energy/oil/gas industry in some capacity. Specifically:
+	- References to various energy/oil/gas companies (Enron, Mobil, Shell, Ocean Energy, Valero, Duke Energy, etc.), pipelines (Humble Gas Pipeline, HGPL), gas plants (King Ranch Gas Plant, Gulf Plains Plant), and facilities (Baytown 12, Deer Park) suggest this person interacts with various players in the industry.
+	- There are mentions of specific oil/gas fields, wells, and pipelines (Katy Gas Unit, Sarco Lateral, Station 809) indicating some operational or production responsibilities potentially.
+	- The numerous companies and locations suggest an industry business development or relationship management type role connecting with customers/suppliers.
+	- There are also occasional references to non-energy interests like ranches, hotels, and basketball which likely relate to personal life but could tie into corporate entertainment/events in the energy industry. 
+	Based on the specifics mentioned, this person is likely in a commercial/business development type function within the energy value chain for Enron. Responsibilities could relate securing suppliers, customers, transport for Enron's commodity business. But without more context, hard to pinpoint exact title or role.
+
+mark.taylor - LinkedIn: Vice President and Assistant General Counsel (https://www.linkedin.com/in/mark-taylor-5078b611/details/experience/) / Corporation Wiki: VP for Enron Services Company of Louisiana
+	Based on the words, phrases and acronyms listed, this person seems to be involved in energy and financial trading. Some key hints that point to this:
+	- Lots of references to energy companies (Enron, PG&E), energy trading platforms (EnronOnline) and energy products (jet kerosene, natural gas).
+	- Mentions of financial companies (Skadden law firm, National City bank), financial industry groups (Bond Market Association, International Swaps and Derivatives Association) and financial services (e-fares, Cybersettle). 
+	- Locations like New York, Los Angeles, London, Sydney - major financial centers.
+	- Use of some trading lingo/acronyms like EFR (Enron Funding Reserve), ISDA (swaps association), PTF (Power Trading Floor).
+	So I would infer this person works in some kind of energy and/or financial trading role within Enron. Maybe a trader, structurer or origination type function where they interact with banks, law firms and other trading counterparties. The references to members of congress could also indicate some government affairs/lobbying responsibilities. But trading/finance seems to be the primary role based on this list.
+
+sara.shackleton - Corporation Wiki: VP for Enron North America
+	Based on the words, phrases and acronyms provided, it seems this individual was likely involved in some kind of trading role at Enron. Here are a few reasons why:
+	1) Many of the terms relate to trading and markets, such as "trading edge", "buysidedirect", "limitrader", "market axess", "e*tradec", "fimat group", "goldman international", "lehman brothers finance", "credit suisse first boston international". This suggests trading and financial market involvement.
+	2) There are references to various energy companies and commodities, like "alberta gas", "dow hydrocarbons", "riogas", "anglo american corporation". This points to the energy industry.
+	3) There are mentions of LLCs, trusts, finance companies and investments like "z, l.l.c.", "bali trust", "ect investments inc.", "enron investments plc", which implies some involvement in financial or investment matters.
+	4) There are references to locations relevant to Enron like "houston bush intercontinental", "houston hobby", indicating a geographic connection.
+	5) Acronyms like "ISDA", "SPE", "EITF" relate to trading agreements, structured finance, accounting rules - suggesting a trading or structured finance role.
+	So in summary, the domain language used by this individual strongly matches that of a trader or structured finance professional involved in energy markets and investments at a company like Enron. The location mentions also connect the person to Enron itself which was headquartered in Houston.
+
+tana.jones - Senior Legal Specialist (from email signature 26-May-2000 "Sr. Legal Specialist")
+	Based on the terms and companies referenced in this list, I would infer this person likely had a role in business development, sales, or account management focused on the wholesale energy trading market.
+	Some key signals:
+	Many wholesale energy trading companies and platforms mentioned - "prebon energy", "nymex floor department", "enron europe global"
+	References made to potential clients like utilities and retail providers - "calpine power services", "southern company energy marketing", "taunton municipal light plant"
+	Use of industry terminology - "us gas phy fwd", "credit2b", "enron canada isda"
+	Region/office mentions like "louisville, ky", "south of england" showing geographic coverage
+	So this appears to be someone interfacing with energy trading desks, developing that segment's sales pipeline, managing utility/client accounts' activity, and needing to understand regulatory considerations in North American/European markets.
+	Given the breadth of wholesalers, retailers, and regions covered I would guess a senior business development or sales role focused specifically on Enron's commodity trading operations.
+
+jeff.dasovich - Linkurious: Governmental Affairs Executive (https://linkurious.com/blog/investigating-the-enron-email-dataset/)
+	Based on the California energy companies, utilities, regulatory bodies, law firms, and locations referenced, I would infer this person likely had a government and regulatory affairs policy role focused on California's electricity market.
+	Some key signals:
+	Many mentions of California regulatory agencies - "california public utility commission", "publicutilities commission", "state power authority"
+	References to policymakers and legislative committees - "assembly utilities and commerce committee", "judiciary committee"
+	Law firms and appeals courts - "9th u.s. circuit court of appeals", "ellison, schneider & harris, llp"
+	Utilities and energy providers operating in CA - "p.g.&e.", "aquila power corp.", "southern co. energy marketing"
+	This suggests the person dealt with interfacing between Enron and California authorities around energy policy, legislation, rates and market rules - likely in a senior advocacy and engagement role given the references. For example head of California governmental affairs or regulatory matters.
+
+richard.shapiro - Governmental Affairs Executive
+	Based on the government entities, regulatory bodies, policy committees, and industry groups mentioned, I would infer this person likely had a senior government and regulatory affairs role at Enron.
+	Some key signals:
+	References to agencies and policymakers across jurisdictions - "imo board", "arizona commission", "harris government", "ofgem"
+	Industry groups like "ees canada", "febeliec", "statefederation of industries"
+	Policy topics and regulatory terminology used - "baseload", "rto", "sro"
+	Specific committees/forums named - "nerc stakeholders committee", "legislative affairs committee"
+	This range of regulators, policy issues, and industry organizations suggests a strategic engagement role monitoring policy impacts and risks across Enron's geographic footprint to advise business units and coordinate policy advocacy.
+	So likely a VP of a government/regulatory affairs function or head of a regional affairs policy team engaging public sector stakeholders and managing regulatory developments and risks.
+
+steven.kean - Enron Chief of Staff (Typically a coordinator, principal staff officer or aide-de-camp to an important person)
+	 Based on the words and phrases listed, this person seems to be involved in government affairs, public policy, and trade issues related to Enron's energy business. Some key hints that point to this:
+	- Lots of mentions of trade groups, policy committees, and government agencies (ex-im bank, export-import bank, txoga pipeline committee, usepa, hgac etc)
+	- Issues like exports, trade policy, regulations frequently mentioned (ceeasy, coalition for employment through exports, wto)  
+	- Interacting with policymakers (122 c street nw suite 500 - a DC address near the White House)
+	- Environmental and conservation groups listed (world wildlife fund, conservation international) indicating involvement in energy policy debates
+	- Many geographic places listed (lapaz, cochabamba, nagpur, grand rapids) implying international scope
+	So in summary, this person is likely in a government affairs or public policy role at Enron, interacting with trade groups, regulators, environmental NGOs, and policymakers on issues like trade, regulations, pipelines, and energy production. Possibly a director-level position or VP given the scope.
+	
+rod.hayslett - LinkedIn: Transportation Division CFO (https://www.linkedin.com/in/rod-hayslett-7915503/details/experience/)
+	 Based on the words and phrases listed, this person seems to be in an operations/trading role at Enron. Some clues that point to this:
+	- References to various energy/pipeline companies and assets like Southern Trail Pipeline, Rockies Gas, Transpecos, Arkla LDC, etc. suggest this person is involved with Enron's energy trading business.
+	- Terms like "P&L", "transportation & storage revenue", "fuels sec", "ets finance" indicate involvement with the financial/accounting side of trading operations. 
+	- "Rac", "opex", "pba", "opi" and other acronyms suggest knowledge of Enron's internal performance metrics and operations.
+	- Mentions of Reliant Energy, PG&E and other energy providers imply this person interacts with Enron's clients/counterparties.
+	- Locations listed include Enron's headquarters and other operational centers.
+	So in summary, this seems like an Enron employee working in an operations/trading capacity, knowledgeable about energy assets and markets, tracking financial performance, working with external clients/partners, and located centrally near core Enron facilities.
+
+gerald.nemec - LinkedIn: Senior Counsel (https://www.linkedin.com/in/gerald-nemec-908212a/details/experience/)
+	 Based on the words, phrases and acronyms used, this person seems to be in a legal role at Enron. Some evidence supporting this:
+	- "enron north america legal" - suggests they work in the legal department of Enron North America
+	- "lessee" - a legal term referring to a tenant or someone leasing property
+	- "lexsee" - refers to a legal search engine for case law
+	- Multiple references to energy companies, pipelines, and facilities suggest domain knowledge of the energy industry that would be relevant for an in-house counsel or lawyer
+	- "houston bar association" - indicates membership in the professional association for lawyers in Houston 
+	- The address "396 west greens road #603p.o. box 4697houston, texas" also points to a location in Houston where Enron was headquartered
+	- References to law firms like "marsh usa" and insurance companies like "liberty mutual insurance company" suggest professional connections in the legal sector
+	So in summary, this person is likely an in-house attorney or legal professional working with the energy industry and Enron in Houston. The mix of legal and energy terminology aligns with someone providing legal services, advice, and support around Enron's business dealings.
+
+benjamin.rogers - LinkedIn: Director of Power Trading (https://www.linkedin.com/in/ben-rogers-62248128/details/experience/)
+	 Based on the words and phrases listed, this person seems to be in an operations/engineering role at Enron, likely involved with power plants and energy trading:
+	- Many references to specific power plants (Gleason, Wheatland, Lincoln, etc.) and components (LM2500, LM6000, etc.)
+	- References to energy companies like Kinder Morgan, Cinergy, Ida-West 
+	- Locations match Enron operational areas like Texas, California 
+	- Acronyms like PJM (Pennsylvania-New Jersey-Maryland grid operator) suggest involvement in power trading
+	- Groups/events like Enron Cycling Club, Super Saturday imply employee participation
+	- Business school and M&A references could mean this person was analzying deals/assets
+	So in summary, an operations or engineering manager involved with power generation assets and energy trading for Enron. Geographic and asset mentions indicate responsibilities across different regions of the US. The business school/M&A mentions may suggest a commercial/financial oversight role as well in evaluating assets.
+
+john.lavorato - CEO of Enron Americas, focusing on Risk Management and Trading (https://enroncorp.com/corp/pressroom/bios/johnlavorato.html)
+	 Based on the words, phrases and acronyms used frequently by this individual, it seems likely that this person works in some capacity related to the energy industry, specifically nuclear power. Some key hints:
+	- Many references to nuclear power plants (Bruce, Darlington, Candu), energy companies (Ontario Power Generation, NB Power) and nuclear regulatory bodies (Canadian Nuclear Safety Commission, Atomic Energy Control Board) suggest a connection to the nuclear/energy industry.
+	- Terms like "td greenline", "peakers", "nicor city gate", "teco pool", indicate involvement in energy trading markets.
+	- References to mergers and acquisitions (M&A), finance/banking firms (Mellon) and consulting firms (Charles River Associates) suggest perhaps involvement in dealmaking, finance or consulting roles within the energy industry.
+	- There are also some indications that this person may have been based in Ontario/Canada (numerous Ontario entities mentioned). Or they could have been a US-based Enron employee dealing with Canadian energy issues.
+	- Given the breadth of nuclear, utility and trading market terms referenced, this person likely held a senior leadership, legal, regulatory or business development role within Enron's energy division. But without more context it is difficult to pinpoint an exact position.
+	In summary, this individual was almost certainly involved in the nuclear/utilities side of Enron's business, likely interacting heavily with Canadian energy entities in some type of senior management, business development or legal/regulatory affairs role.
+
+scott.neal - VP Trading, ENA Gas East (https://github.com/desmarais-lab/IPTM/blob/master/enron/employees.tsv)
+	 Based on the words, phrases and acronyms used, this person seems to be in a role related to natural gas trading at Enron.
+	Some of the key evidence pointing to this:
+	- References to various natural gas pipelines (Transcontinental, Algonquin, Texas Eastern, etc.), storage facilities, compressor stations and other gas infrastructure
+	- Mentions of gas trading terms like mcf/day, avg, fundamentals
+	- References to specific natural gas market areas like Leidy East, Transco Zone 3 
+	- Mentions of gas trading platforms/tools like GasTraders
+	So I would infer this person is a natural gas trader or is involved in gas scheduling/logistics for Enron. The focus is specifically on the physical natural gas markets rather than financial trading. But their role likely requires understanding both the physical market dynamics and trading/financial aspects relating to natural gas.
+
+louise.kitchen - COO of Enron Americas (https://enroncorp.com/corp/pressroom/bios/louisekitchen.html)
+	 Based on the words and phrases listed, this person seems to be involved in business dealings and negotiations, likely in a senior leadership or executive role at Enron.
+	Some clues that point to this:
+	- Use of acronyms like "EVP" (Executive Vice President) and "CEO" 
+	- References to specific companies across various industries - media/entertainment, telecom, financial services, etc. This implies high-level strategic discussions.
+	- Terms like "trade-ranger", "venture partners", "investors" - relates to dealmaking and investments
+	- Groups/divisions named - e.g. "motion picture group", "integrated network solutions" - suggests oversight of large business units
+	- References to geographic scope ("China Airlines", "Europe") - global strategic remit
+	So in summary, this person was likely a senior executive (EVP level) at Enron, involved in high-level corporate strategy, mergers & acquisitions, joint ventures, and partnerships across multiple industries globally. Specific role could be Head of Business Development, Chief Strategy Officer, or similar.
+
+stanley.horton - Chairman, CEO Enron Global Services (https://enroncorp.com/corp/pressroom/bios/stanhorton.html)
+	 Based on the words and phrases listed, I can infer this person likely had a senior leadership role at Enron, possibly an executive. Here are a few reasons why:
+	1) References to boards and committees, like "eott board", "aaprc committees", "corp policy committee", suggest involvement in governance and oversight.
+	2) There are mentions of geographic regions (Navajo Nation, Northeast states, Eastern US) and assets/projects (Enron Liquids Holding Corp, Enron Wind Europe), indicating purview over broad business areas.  
+	3) Interactions with government entities are referenced - the Clinton-Gore Administration, Senate Agricultural Committee, US Dept of Agriculture. This implies external affairs/public policy responsibilities.
+	4) There are indications of travel to operations (Tampa Bay Water, Madera) and meetings in executive spaces like boardrooms.
+	5) Miscellaneous references like charity donations, fitness center, etc. suggest a senior executive coordinating role interfacing with many internal/external parties.
+	So in summary, this person seems to have had strategic, operational and outreach duties typical of a senior executive or leader within Enron.
+
+shelley.corman - (now Shelley Corman-Frisby) VP Gas Logistics & VP Government Affairs & Communication (https://www.linkedin.com/in/shelleycorman/details/experience/)
+	 Based on the words and phrases listed, this person likely works in a role related to energy regulation, policy and affairs, specifically in California. Some key hints that point to this:
+	- Lots of references to specific energy/utility companies (PG&E, Edison, AES Southland, etc), power plants (Cabrillo Power) and energy infrastructure (pipelines, transmission lines)
+	- Mentions of various California locales (Gilroy, Oxnard, Fullerton, etc) 
+	- References to California state government agencies like the Public Utilities Commission, California Energy Commission, Dept of Water Resources
+	- Mentions of federal regulatory bodies like FERC (Federal Energy Regulatory Commission)
+	- Terms related to energy policy and regulations like "public utilities", "regulatory commission", "utility commission"
+	- Acronyms like CPUC (California Public Utilities Commission)
+	So this person likely works in some sort of energy policy/regulatory affairs role within the state of California. Given the Enron context, they may be an executive, lobbyist or government affairs manager interacting with state policymakers and regulators on energy issues. Roles could include VP of Regulatory Affairs, Director of CA Government Affairs, etc. The list suggests they track state energy policy very closely.
+
+sally.beck - VP Enron Services Company, Energy Operations (https://www.corporationwiki.com/p/kmbzm/sally-beck)
+	 Based on the words and phrases listed, this person seems to have been in an operations and financial management role at Enron. Some clues that point to this:
+	- Lots of references to "Enron Grid", "Enron Net Works", "Enron Global Markets", etc - indicates an employee of Enron
+	- Mentions of positions/teams like "financial operations executive", "European middle office", "financial products", "global financial products" - suggests a financial operations background
+	- Terms like "energy ops", "global operations", "global systems" indicate involvement in Enron's energy operations and global business
+	- References to locations like "Mid Texas", "Houston", "307 West Brooks, Room 218 Norman OK" suggests site/regional operations responsibility
+	- Acronyms like "EOPS", "BRM", "EGM" could be internal Enron operations and management functions
+	- Events/meetings like "Enron Apollo and Beyond Financial Council" and "People's Energy Board of Directors" implies senior operations/finance oversight duties
+	So in summary, this person likely had a high-level operations and financial management role within Enron's energy and commodities trading businesses globally. Responsibilities may have spanned regional plant operations, global energy trade, financial risk management etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

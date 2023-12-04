@@ -1,3 +1,7 @@
+Prompt:
+Given the following list of words, phrases and acronyms used by one individual, can you infer the role of the person in the context of Enron, an energy company based in Houston, Texas:
+[word list]
+
 chris.germany - LinkedIn: Capacity Trader - Natural Gas (https://www.linkedin.com/in/chris-germany-28a15528/details/experience/)
 	 Based on the words, phrases and acronyms used, this person likely works in a role related to natural gas trading or transmission. Specifically:
 	- There are many references to natural gas pipelines (Transcontinental Gas Pipe Line, Columbia Gas of Ohio, Texas Eastern, etc.) and storage facilities (Cove Point Storage).

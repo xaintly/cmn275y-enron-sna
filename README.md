@@ -1,5 +1,6 @@
 # cmn275y-enron-sna
 Scripts used to analyze the Enron Corpus
+
 Corpus can be downloaded from CMU at https://www.cs.cmu.edu/~enron/
 
 # edgefinder.pl

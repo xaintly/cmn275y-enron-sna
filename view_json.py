@@ -76,7 +76,9 @@ all_entities = {}
 with open(filename) as user_file:
 	for file_analysis in user_file:
 		parsed     = json.loads(file_analysis)
-		email_user = re.match(r'^(.*)-\d\d.txt',parsed['File']).group(1)
+		print('Importing analysis of',parsed['File'],'...')
+		email_user = re.match(r'^(.*)-(in|out)-\d\d.txt',parsed['File']).group(1) # assumes original files were named 'username...-in-xx.txt'
+		print('Identified user: [',email_user,"]")
 		entities   = parsed['Entities' if 'Entities' in parsed else 'KeyPhrases']
 		for entity in entities:
 			if 'Type' not in entity or entity['Type'] in ['COMMERCIAL_ITEM','ORGANIZATION','LOCATION']: # 'PERSON'
@@ -98,23 +100,7 @@ with open(filename) as user_file:
 			break
 
 
-# user_count = len(entities_by_user)
-# print('Identified ',user_count,' users...')	
-
-#topic_buckets = get_topic_buckets( all_entities, len(entities_by_user) )
-#dump_topic_buckets( list(entities_by_user.keys()), topic_buckets, filename.replace('.json','-topic-freq.tsv'), 100 )
-#top_unique_topics_by_user( list(entities_by_user.keys()), topic_buckets, filename.replace('.json','-topic-unique.tsv'), 100 )
+topic_buckets = get_topic_buckets( all_entities, len(entities_by_user) )
+dump_topic_buckets( list(entities_by_user.keys()), topic_buckets, filename.replace('.json','-topic-freq.tsv'), 100 )
+top_unique_topics_by_user( list(entities_by_user.keys()), topic_buckets, filename.replace('.json','-topic-unique.tsv'), 100 )
 top_topics_by_user( entities_by_user, filename.replace('.json','-topic-top100.tsv'), 100 )
-
-		
-	
-
-
-#for email_user, entities in entities_by_user.items():
-#	print('User: ',email_user)
-#	for entity in sorted(entities.items(), key=lambda x:x[1])[:-100:-1]:
-#		print('  ',entity)
-	
-
-
-

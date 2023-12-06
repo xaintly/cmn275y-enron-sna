@@ -1,5 +1,13 @@
 #!/usr/bin/perl
 
+# runs through the 'maildir/' folder, extracting all the From:, To:, CC: and BCC: lines from email headers
+# exports CSV of from,to,count   with count being the number of times 'from' emailed 'to'
+
+our $CONFIG = {
+	# Translating all quoted-printable characters causes problems later with some binary characters, so this is a short list of acceptable ones
+	'TRANSLATE_QP'    => { '20' => ' ', '01' => "'", '09' => "\t", '60' => "`", '3D' => '=', '40' => '@' },
+};
+
 my $comm_log = {};
 recurse_filelist( './maildir', $comm_log ); # collect counts of emails from > to
 print_edges( $comm_log ); 
@@ -17,15 +25,17 @@ sub print_edges {
   } 
 }
 
-# Identify all the files in the mail folders
+# Identify all the files in the mail folders, recursively descend folder structure
 sub recurse_filelist {
   my( $folder, $comm_log ) = @_;
+
+  # get a list of all files in the folder
   opendir( my $dh, $folder ) or die "Can't open $folder, $!";
   my @files = map { $folder . '/' . $_ } grep(!/^\./, readdir( $dh ));
   closedir( $dh );
 
   foreach my $file ( @files ) {
-    if( -d $file ) { recurse_filelist( $file, $comm_log ); }
+    if( -d $file ) { recurse_filelist( $file, $comm_log ); }  # If the file is another folder, recurse into it
     else { process_mail( $file, $comm_log ); }
   }
 }
@@ -39,13 +49,13 @@ sub process_mail {
   my $last_header = undef;
   while( my $line = <$fh> ) {
     last if $line =~ /^\s*$/; # email headers end at first blank line
-    if( $line =~ /^(\S+):\s*(.*)/ ) { # lines like "To: xxxxxx@xxxx"
-      my( $header, $value ) = ( lc($1), $2 );
-      $value =~ s/\s+$//;
+    if( $line =~ /^(\S+):\s*(.*)/ ) { # headers are lines that look like "To: xxxxxx@xxxx" -> "To" = header, "xxxxxx@xxxx" = header data
+      my( $header, $value ) = ( lc($1), $2 );  # normalize headers to lowercase
+      $value =~ s/\s+$//; # trim trailing space, leading space already removed by regex pattern above
       $last_header = $header;
-      $headers->{ $header } = $value;
+      $headers->{ $header } = $value; # keep track of the last header we saw since there can be continuation lines
     } elsif( $line =~ /^\s+(\S.*)/ ) { # lines that start with space are continuations of the previous header
-      $headers->{ $last_header } .= ' ' . $1;
+      $headers->{ $last_header } .= ' ' . $1; 
     }
   }
 
@@ -56,12 +66,18 @@ sub process_mail {
 
   # get a list of unique email targets, considering the to, cc and bcc lines
   my %to = (); # use a hash to eliminate duplicates
-  foreach my $target (map { lc($headers->{ $_ } || '') } ('to','cc','bcc')) {
-    while( $target =~ s/(\S+)\@enron\.com// ) { # don't care about anyone not at enron
+  foreach my $target (map { lc($headers->{ $_ } || '') } ('to','cc','bcc')) { # For each possible list of email targets (To:,Cc:,Bcc:)...
+
+	# Decode quoted-printable characters like =20 (space), =40 (@), etc.
+	$target =~ s/=\r?\n//gs;
+	$target =~ s/=([0-7][0-9A-F])/$CONFIG->{'TRANSLATE_QP'}->{$1} || "=$1"/gse;
+
+    # Now go through the list 	
+    while( $target =~ s/(\S+)\@enron\.com// ) { # look email addresses of enron employees [kenneth.lay@enron.com]
       my $target_email = $1;
       $target_email    =~ s/^[^A-Za-z0-9_]+//;
-      next if $target_email eq $from;
-      $to{ $target_email } = 1;
+      next if $target_email eq $from; # sometimes people email themselves so ignore these
+      $to{ $target_email } = 1; # this ensures that if someone is mentioned multiple times in any of the headers we only count them once
     }
   }
 

@@ -160,9 +160,45 @@ sally.beck - VP Enron Services Company, Energy Operations (https://www.corporati
 	- Acronyms like "EOPS", "BRM", "EGM" could be internal Enron operations and management functions
 	- Events/meetings like "Enron Apollo and Beyond Financial Council" and "People's Energy Board of Directors" implies senior operations/finance oversight duties
 	So in summary, this person likely had a high-level operations and financial management role within Enron's energy and commodities trading businesses globally. Responsibilities may have spanned regional plant operations, global energy trade, financial risk management etc.
+	
 
+kenneth.lay	- Chairman & CEO
+	Based on the words, phrases and acronyms used, this person seems to have been in a senior government affairs or lobbying role at Enron.
+	Some telling terms that support this:
+	- "gov. affairs" suggests involvement in government affairs
+	- Frequent mention of "commerce committee", "ustr" (US Trade Representative), "state" indicates engagement with government entities
+	- References to trade policy like "wto" (World Trade Organization), "tpa" (Trade Promotion Authority), "doha" (Doha trade negotiations)
+	- "division of enforcement", "dc", "lobby" point to a DC lobbying/policy function
+	- Companies like "sysco", "ritz", "targetta" may be clients or lobbying targets
+	So in summary, this person was likely a VP or executive in charge of managing government affairs, trade policy, and lobbying for Enron. Their role focused heavily on interfacing between Enron, Congress, federal agencies, trade organizations to promote Enron's interests. Let me know if you need any clarification or have additional questions!
 
+jeff.skilling - CEO
+	Based on the words, phrases and acronyms used, this person seems to have been in an IT/technology role at Enron, potentially as a manager or executive overseeing IT infrastructure and systems.
 
+	Some telling terms that support this:
+	- Frequent mentions of technical terms like "enterprise storage", "ems", "axis", "verio", "espeed", indicate involvement with IT systems
+	- References to vendors like AT&T, Sprint, Fedex suggest technology supplier management
+	- "firechief.com", "custom feeds", "global databases" point to work on data/information systems
+	- Addresses like "1400 Smith St" could refer to Enron headquarters where tech teams were likely based
+	So in summary, this person likely held an IT leadership role at Enron, perhaps a Chief Technology Officer, VP of IT Infrastructure, or Chief Information Officer type position. Their focus seems to have been enterprise IT systems, networks, data management that would support Enron's operations and business needs.
+
+mike.mcconnell - EGM President & CEO, Enron Wholesale Services (https://github.com/desmarais-lab/IPTM/blob/master/enron/employees.tsv)
+	Based on the words and phrases used, this person seems to have been an executive in Enron's wholesale energy trading business.
+	Some telling terms that support this:
+	- Frequent mentions of energy companies and regions like "Oxy" (Occidental Petroleum), "Woodside", "Venezuela", "Eskom", "Red Sea" indicate involvement in energy industry
+	- References like "Enron Wholesale Services", "Enron Global Markets", "Steering Committee" suggest a leadership position
+	- Technical terms like "First Gas", "Metgas", financial firms like "JPMorgan" point to markets/trading activity
+	- Events like "NCAA", "The Met" could be related to client entertainment
+	So in summary, this person was likely an executive (VP or Managing Director level) in Enron's energy trading or wholesales business. Their role focused on managing relationships and transactions with energy companies, utilities, energy producers/transporters to support Enron's trading strategies.
+
+rick.buy - VP & CRO (https://github.com/desmarais-lab/IPTM/blob/master/enron/employees.tsv)
+	Based on the words, phrases and acronyms used, this person seems to have been an executive or senior leader in Enron's energy/commodity trading business.
+	Some telling terms that support this:
+	- References like "Enron Energy Marketing", "Enron Americas Gas", "Enron Capital & Trade" point to energy/commodity trading roles
+	- Companies like "BNP Paribas", "Mariner Energy", "YPF" suggest engagement with trading partners/counterparties
+	- Acronyms like "CalPX', "CDWR", and entities like "Power Exchange, "Utility Reform Network", indicate involvement in power/utility markets
+	- Terms like "risktrac", "global finance", "sst" relate to trading and risk management
+	So in summary, this person was likely an executive VP or Managing Director overseeing trading functions across gas, power, utilities at Enron. Their focus would have been business strategy, managing risk, cultivating partnerships related to Enron's commodity trading.
 
 
 
